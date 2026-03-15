@@ -80,9 +80,9 @@ Al encenderse, el sensor requiere un tiempo de estabilización cercano a **1 min
 
 ---
 
-## 5. Relación con conceptos vistos en clase
+## 5. Conceptos vistos en clase
 
-Esta sección es especialmente importante porque conecta la hoja de datos del HC-SR501 con los conceptos teóricos trabajados en la asignatura. :contentReference[oaicite:32]{index=32}
+Esta sección conecta la hoja de datos del HC-SR501 con los conceptos teóricos trabajados en la clase. :contentReference[oaicite:32]{index=32}
 
 ### 5.1 Sensor como transductor pasivo
 
