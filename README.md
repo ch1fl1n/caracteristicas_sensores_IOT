@@ -111,17 +111,6 @@ Por esa razón, **no es correcto asumir ni inventar esos valores**. Lo único qu
 
 En consecuencia, desde la perspectiva de la actividad, sí es posible relacionar el HC-SR501 con los conceptos vistos en clase, pero debe aclararse que **la hoja de datos no proporciona todas las magnitudes numéricas teóricas** que normalmente se buscan en el análisis de sensores. 
 
----
-
-## 6. Discrepancias encontradas entre las fuentes
-
-Durante la revisión de los documentos suministrados se encontraron algunas diferencias en ciertos parámetros del sensor:
-
-- **Tiempo de retardo:** un documento reporta **5–200 s**, mientras que otro indica **5–300 s** o aproximadamente **0.3–5 min**. 
-- **Ángulo de detección:** una fuente indica **<100°** y otra **<110°**. 
-- **Consumo:** una hoja muestra **quiescent current <50 µA**, mientras otra reporta **power consumption 65 mA**. 
-
-Estas diferencias se dejan registradas tal como aparecen en los documentos, sin suponer cuál de los valores es el definitivo.
 
 ---
 
