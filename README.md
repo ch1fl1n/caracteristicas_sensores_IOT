@@ -1,0 +1,1 @@
+# caracteristicas_sensores_IOT
